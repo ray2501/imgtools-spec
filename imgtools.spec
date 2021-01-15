@@ -6,7 +6,7 @@ Name:          imgtools
 Summary:       A Tk extension to scale and rotate photo images
 Version:       0.3
 Release:       0
-License:       BSD 2-Clause license
+License:       BSD-2-Clause
 Group:         Development/Libraries/Tcl
 Source:        %{name}-%{version}.tar.gz
 URL:           https://sourceforge.net/projects/tkimgtools/
